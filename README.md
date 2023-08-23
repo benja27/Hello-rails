@@ -33,7 +33,7 @@
 
 
 
-# 📖 Awsome Books With React <a name="about-project"></a>
+# 📖 Hello from Rails <a name="about-project"></a>
 
 **Hello Rails App** is my first app using rails 
 
